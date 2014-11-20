@@ -1,0 +1,11 @@
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\OfficeAppTaskPaneWeb.dll.config
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\OfficeAppTaskPaneWeb.dll
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\OfficeAppTaskPaneWeb.pdb
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\Newtonsoft.Json.dll
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\bin\Newtonsoft.Json.xml
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\obj\Debug\OfficeAppTaskPaneWeb.csprojResolveAssemblyReference.cache
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\obj\Debug\OfficeAppTaskPaneWeb.dll
+D:\OfficeAppTaskPane\OfficeAppTaskPaneWeb\obj\Debug\OfficeAppTaskPaneWeb.pdb
