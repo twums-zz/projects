@@ -1,2 +1,0 @@
-bin\Debug\OfficeAppManifests\e142aecc33b4418ba49eb2fd190c2b94.xml
-D:\OfficeAppTaskPane\OfficeAppTaskPane\bin\Debug\OfficeAppTaskPane.debugapp

@@ -1,7 +1,0 @@
-False
-dc3f339a-8460-47e2-a5a1-7282a07eea63e458e746-8317-4a45-a36d-36b23f05bf08
-{90fccd9a-6614-43da-9db6-8f39ec67250c}{c40eaefc-0ccd-459f-877d-f570dcff2ff2}
-{8f64e384-026c-440a-b66b-ec2a407597bc}
-1.0.0.0
-OfficeAppTaskPane
-_layouts/15/
